@@ -18,7 +18,7 @@ I build security tools, custom web apps, and WordPress solutions that solve real
 
 - Currently building [**Snakebite**](https://github.com/xKILLERDEADx/Snakebite) - an advanced web security scanner with 219+ attack modules
 - Working on custom web applications, WordPress themes/plugins, and security tools
-- Based in Bahawalpur, Punjab, Pakistan
+- Based in Pakistan
 
 ---
 
