@@ -16,7 +16,7 @@
 
 I build security tools, custom web apps, and WordPress solutions that solve real problems. My focus is on full-stack web development and offensive security research.
 
-- Currently building [**Snakebite**](https://github.com/xKILLERDEADx/Snakebite) - an advanced web security scanner with 219+ attack modules
+- Currently building [**Snakebite**](https://github.com/xKILLERDEADx/Snakebite) - an advanced web security scanner with 110+ attack modules
 - Working on custom web applications, WordPress themes/plugins, and security tools
 - Based in Pakistan
 
@@ -59,7 +59,7 @@ I build security tools, custom web apps, and WordPress solutions that solve real
 | Project | Tech | Description |
 |---------|------|-------------|
 | **KlickMick** | React, Node.js | Live auction marketplace with real-time bidding |
-| [**Snakebite**](https://github.com/xKILLERDEADx/Snakebite) | Python | Advanced web security scanner with 219+ attack modules |
+| [**Snakebite**](https://github.com/xKILLERDEADx/Snakebite) | Python | Advanced web security scanner with 110+ attack modules |
 | **OLeaf** | WordPress | Ecommerce theme for online stores |
 | **VitalSpring** | WordPress | Healthcare and wellness theme |
 | **Telorix** | WordPress | Call center and business services theme |
