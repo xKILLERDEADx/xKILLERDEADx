@@ -58,7 +58,7 @@ I build security tools, custom web apps, and WordPress solutions that solve real
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [**KlickMick.com**](https://klickmick.com) | React, Node.js | Live auction marketplace with real-time bidding |
+| **KlickMick.com** | React, Node.js | Live auction marketplace with real-time bidding |
 | [**Snakebite**](https://github.com/xKILLERDEADx/Snakebite) | Python | Advanced web security scanner with 219+ attack modules |
 | **OLeaf** | WordPress | Ecommerce theme for online stores |
 | **VitalSpring** | WordPress | Healthcare and wellness theme |
