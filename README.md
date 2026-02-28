@@ -54,11 +54,15 @@ I build security tools, custom web apps, and WordPress solutions that solve real
 
 ---
 
-### Featured Project
+### Projects
 
-[![Snakebite](https://img.shields.io/badge/🐍_Snakebite-Advanced_Web_Security_Scanner-red?style=for-the-badge)](https://github.com/xKILLERDEADx/Snakebite)
-
-**219+ attack modules** | Python-based | Cross-platform | Auto exploit generation
+| Project | Tech | Description |
+|---------|------|-------------|
+| [**KlickMick.com**](https://klickmick.com) | React, Node.js | Live auction marketplace with real-time bidding |
+| [**Snakebite**](https://github.com/xKILLERDEADx/Snakebite) | Python | Advanced web security scanner with 219+ attack modules |
+| **OLeaf** | WordPress | Ecommerce theme for online stores |
+| **VitalSpring** | WordPress | Healthcare and wellness theme |
+| **Telorix** | WordPress | Call center and business services theme |
 
 ---
 
