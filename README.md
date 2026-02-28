@@ -2,7 +2,7 @@
 
 # Hey, I'm Muhammad Abid 👋
 
-### Security Researcher | Python Developer | Open Source Builder
+### Building Custom Web Apps & WordPress Websites | React . Node . Laravel . Security
 
 [![Website](https://img.shields.io/badge/muhammadabid.com-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muhammadabid.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abid4s)
@@ -14,36 +14,51 @@
 
 ### About Me
 
-I build security tools and automation scripts that solve real problems. My focus is on offensive security, vulnerability scanning, and making the web a safer place through open-source tools.
+I build security tools, custom web apps, and WordPress solutions that solve real problems. My focus is on full-stack web development and offensive security research.
 
 - Currently building [**Snakebite**](https://github.com/xKILLERDEADx/Snakebite) - an advanced web security scanner with 219+ attack modules
-- Working on Python automation, web security research, and bug bounty
-- Based in Pakistan
+- Working on custom web applications, WordPress themes/plugins, and security tools
+- Based in Bahawalpur, Punjab, Pakistan
 
 ---
 
 ### Tech Stack
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Security & Tools**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=hackaday&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 ### Featured Project
 
-<a href="https://github.com/xKILLERDEADx/Snakebite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xKILLERDEADx&repo=Snakebite&theme=tokyonight" />
-</a>
+[![Snakebite](https://img.shields.io/badge/🐍_Snakebite-Advanced_Web_Security_Scanner-red?style=for-the-badge)](https://github.com/xKILLERDEADx/Snakebite)
+
+**219+ attack modules** | Python-based | Cross-platform | Auto exploit generation
 
 ---
 
@@ -51,14 +66,7 @@ I build security tools and automation scripts that solve real problems. My focus
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xKILLERDEADx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xKILLERDEADx&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKILLERDEADx&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xKILLERDEADx&theme=tokyonight&hide_border=true)](https://github.com/xKILLERDEADx)
 
 </div>
 
@@ -66,6 +74,6 @@ I build security tools and automation scripts that solve real problems. My focus
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=xKILLERDEADx&label=Profile%20Views&color=0e75b6&style=flat" />
+![Profile Views](https://komarev.com/ghpvc/?username=xKILLERDEADx&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
