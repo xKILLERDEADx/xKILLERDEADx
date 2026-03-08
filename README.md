@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | WordPress & Laravel Expert | Security Researcher
 
-Building custom web apps, WordPress solutions, and security tools for 6+ years.
+Building custom web apps, WordPress solutions, and security tools for 4+ years.
 
 [![Website](https://img.shields.io/badge/muhammadabid.com-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muhammadabid.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abid4s)
@@ -16,7 +16,7 @@ Building custom web apps, WordPress solutions, and security tools for 6+ years.
 ### 🧑‍💻 About Me
 
 - 🔭 Building [**Snakebite**](https://github.com/xKILLERDEADx/Snakebite) Advanced web security scanner with 110+ modules
-- 💼 6+ years building **WordPress, WooCommerce, Laravel** projects
+- 💼 4+ years building **WordPress, WooCommerce, Laravel** projects
 - 🌍 Built 50+ websites for clients in the US, UK, Europe, and Middle East
 - ⚡ I write clean, scalable code no page builders, no shortcuts
 - 📫 Reach me at **spaceworkofficial@gmail.com**
