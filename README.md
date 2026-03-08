@@ -9,11 +9,9 @@ Building custom web apps, WordPress solutions, and security tools for 6+ years.
 [![Website](https://img.shields.io/badge/muhammadabid.com-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muhammadabid.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abid4s)
 [![Twitter](https://img.shields.io/badge/@Abid05901-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Abid05901)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/muhammadabid390)
 
 </div>
 
----
 
 ### 🧑‍💻 About Me
 
@@ -23,7 +21,6 @@ Building custom web apps, WordPress solutions, and security tools for 6+ years.
 - ⚡ I write clean, scalable code — no page builders, no shortcuts
 - 📫 Reach me at **spaceworkofficial@gmail.com**
 
----
 
 ### 🛠️ Tech Stack
 
@@ -57,7 +54,6 @@ Building custom web apps, WordPress solutions, and security tools for 6+ years.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
 ### 🚀 Featured Projects
 
@@ -70,7 +66,6 @@ Building custom web apps, WordPress solutions, and security tools for 6+ years.
 | **Rosy Botanical** | WordPress (Custom) | E-commerce store with fully custom theme — no templates |
 | **Emerald Chauffeurs** | WordPress | Premium chauffeur booking platform |
 
----
 
 ### 📊 GitHub Stats
 
@@ -88,7 +83,6 @@ Building custom web apps, WordPress solutions, and security tools for 6+ years.
 
 </div>
 
----
 
 ### 🏆 GitHub Achievements
 
@@ -98,7 +92,6 @@ Building custom web apps, WordPress solutions, and security tools for 6+ years.
 
 </div>
 
----
 
 <div align="center">
 
