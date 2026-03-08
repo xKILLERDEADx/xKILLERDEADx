@@ -15,10 +15,10 @@ Building custom web apps, WordPress solutions, and security tools for 6+ years.
 
 ### 🧑‍💻 About Me
 
-- 🔭 Building [**Snakebite**](https://github.com/xKILLERDEADx/Snakebite) — Advanced web security scanner with 110+ modules
+- 🔭 Building [**Snakebite**](https://github.com/xKILLERDEADx/Snakebite) Advanced web security scanner with 110+ modules
 - 💼 6+ years building **WordPress, WooCommerce, Laravel** projects
 - 🌍 Built 50+ websites for clients in the US, UK, Europe, and Middle East
-- ⚡ I write clean, scalable code — no page builders, no shortcuts
+- ⚡ I write clean, scalable code no page builders, no shortcuts
 - 📫 Reach me at **spaceworkofficial@gmail.com**
 
 
@@ -63,7 +63,7 @@ Building custom web apps, WordPress solutions, and security tools for 6+ years.
 | **KlickMick** | React, Node.js, MongoDB | Live auction marketplace with real-time bidding and PayPal integration |
 | **OurSaleBazaar** | Laravel, PHP, MySQL | Full-stack classified ads platform with user authentication |
 | **OpenMart.pk** | Laravel | Multi-vendor e-commerce marketplace |
-| **Rosy Botanical** | WordPress (Custom) | E-commerce store with fully custom theme — no templates |
+| **Rosy Botanical** | WordPress (Custom) | E-commerce store with fully custom theme no templates |
 | **Emerald Chauffeurs** | WordPress | Premium chauffeur booking platform |
 
 
@@ -97,6 +97,6 @@ Building custom web apps, WordPress solutions, and security tools for 6+ years.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xKILLERDEADx&label=Profile%20Views&color=0e75b6&style=flat)
 
-**💬 Open for freelance work — WordPress, Laravel, React, and Security projects**
+**💬 Open for freelance work WordPress, Laravel, React, and Security projects**
 
 </div>
